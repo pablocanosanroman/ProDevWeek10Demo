@@ -1,6 +1,6 @@
 # ProDevWeek10Demo
 
-##Breakfast
+## Breakfast
 
 Today I had cereals and a glass of milk
 
@@ -8,7 +8,7 @@ My Linkedin [Click Here](https://www.linkedin.com/in/pablo-cano-san-roman/)
 
 ![Image of Octocat](https://github.com/pablocanosanroman/ProDevWeek10Demo/blob/main/github-octocat-logo.png)
 
-##My favourite games
+## My favourite games
 
 1. Dark Souls III
 2. Dark Souls
@@ -16,12 +16,12 @@ My Linkedin [Click Here](https://www.linkedin.com/in/pablo-cano-san-roman/)
 4. Hollow Knight
 5. God of War 3
 
-##Pro Dev
+## Pro Dev
 - [x] Set up professional profiles in social media (Linkedin, Twitter, GitHub)
 - [ ] Create a website
 - [ ] Write a report about the employability on the games industry
 
-##GEC code
+## GEC code
 Here I will put a little bit of code that we had to do in GEC
 
 ```C++
